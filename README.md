@@ -1,8 +1,6 @@
 **A Java library for easy generation of Minecraft worlds**
 
-J2Blocks aims to provide a simple library for custom map generation. In order to use this library it is not necessary to deal with things like regions, chunks and block data. However it aims to implement all map features that Minecraft offers. Please keep in mind that this is still beta.
-
-[→ J2Blocks Documentation](https://morbz.github.io/J2Blocks/index.html)
+Forked from J2Blocks, Scaffold Blocks is the library for Minecraft map generation that powers the [Scaffold Level Editor](http://scaffoldeditor.org).
 
 Example
 ------
